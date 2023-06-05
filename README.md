@@ -1,2 +1,4 @@
 # Python
-This is where I put my Python learning progress and some occassional programs too. Maybe some goofing around too.
+
+## Overview
+A repo to track my Python learning progress and programs I create as part of my studies. Any fun stuff I create goes here too.
